@@ -1,3 +1,5 @@
+const figlet = require("figlet");
+
 figlet.text(
     "Boo!",
     {
