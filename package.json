@@ -1,9 +1,7 @@
 {
   "dependencies": {
     "express": "^4.21.1",
-    "Express": "^3.0.1",
-    "figlet": "^1.8.0",
-    "nodemon": "^3.1.7"
+    "figlet": "^1.8.0"
   },
   "scripts": {
     "start": "node server.js"
@@ -11,7 +9,7 @@
   "name": "figlet_converter",
   "description": "## /api/texto",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "fuentes.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LucST626/Figlet_Converter.git"
