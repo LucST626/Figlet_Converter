@@ -20,3 +20,16 @@ estos son los font que tiene figlet:
 646-de.flc   646-irv.flc  646-pt.flc   8859-5.flc  bubble.flf   koi8r.flc     slant.flf     upper.flc
 646-dk.flc   646-it.flc   646-se2.flc  8859-7.flc  digital.flf  lean.flf      small.flf     ushebrew.flc
 646-es2.flc  646-jp.flc   646-se.flc   8859-8.flc  frango.flc   mini.flf      smscript.flf  uskata.flc
+
+
+      ___     
+     /  /\    
+    /  /::\   
+   /  /:/\:\  
+  /  /:/~/::\ 
+ /__/:/ /:/\:\
+ \  \:\/:/__\/
+  \  \::/     
+   \  \:\     
+    \  \:\    
+     \__\/    
